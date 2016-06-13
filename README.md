@@ -1,6 +1,7 @@
-# Component Dockerfile Templates
+# Dockerfile Templates
 
-Repository containing templates useful as initial templates for developing components for Keboola Connection.
+Repository containing templates useful as initial templates for developing Docker
+components for Keboola Connection.
 
 ## Usage
 
@@ -24,6 +25,12 @@ docker build -t my-new-project .
 docker run -i -t my-new-project bash
 ```
 
+## Examples
+
+| Type | Dockerfile |
+| --- | --- |
+| PHP 7.0 | https://github.com/keboola/mongodb-extractor/blob/master/Dockerfile |
+
 ## License
 
-MIT
+MIT. See license file.
