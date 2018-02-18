@@ -1,6 +1,6 @@
 # Dockerfile Templates
 
-Replaced by [Component Templates](https://github.com/keboola/component-generator).
+**Replaced by [Component Templates](https://github.com/keboola/component-generator).**
 
 Repository containing templates useful as initial templates for developing Docker
 components for Keboola Connection.
